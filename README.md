@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonShouldBeSleeping
 - 👀 I’m interested in Matlab, Power BI, and Python.
 - 🌱 I’m currently learning Power BI and Python.
-- Here I will post homework assignments and projects. 
+- Here I will post homework assignments and other projects. 
 
 <!---
 AntonShouldBeSleeping/Sleeping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
